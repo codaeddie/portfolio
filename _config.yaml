@@ -1,5 +1,22 @@
-title: Eddie Coda
-logo: /assets/images/headshot.png
-# Description:
-show_downloads: true
+title: <p align="center"> Eddie Coda </p>
+
+logo: "/assets/images/headshot.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="">LinkedIn</a> |
+  <a href="https://github.com/codaeddie">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  B.S., Computer Science | San Diego State University (December 2023)
+  <br><br>
+  Recent Software Engineering graduate with background in Home Automation, and a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
+  
+
+  
+show_downloads: false
 theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
