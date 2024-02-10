@@ -5,6 +5,53 @@
 
 -   B.S., Computer Science | San Diego State University *(December 2023)*
 
+---
+
+## Projects
+---
+
+### Natural Language Processing
+
+#### CS561: Deep Learning and Natural Language Processing 
+My complete implementation of assignments and projects in [***CS561: Natural Language Processing with Deep Learning***](https://github.com/codaeddie/SDSU-CS561-NLP) @ SDSU (December 2023) 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/codaeddie/SDSU-CS561-NLP)
+
+---
+
+#### FastFeedForward Network Expirimentation
+[FFF and UltraFastBERT Implementation](https://github.com/codaeddie/portfolio/blob/main/pdf/Finalcs561.pdf)
+_INCOMPLETE_
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1VRoMjagRhhCXTo7ayKpvWFNIo-Ol_Kz1?usp=sharing)
+
+---
+
+#### UltraFastBERT/Crammed-bert/bert-base-uncased Benchmarking 
+[UltraBenchmarking](https://colab.research.google.com/drive/1wZ4qoOY8vszP00BK5YG6gwsYeZUfCCsM?usp=sharing)
+_INCOMPLETE_
+<div style="text-align: justify">Fine-tuned on downstream tasks; glue, mrpc, rte, cola.</div>
+
+[![Run in Google Colab](https://colab.research.google.com/drive/1wZ4qoOY8vszP00BK5YG6gwsYeZUfCCsM?usp=sharing)
+
+---
+
+#### Analyzing my Spotify Listening Data
+[Spotify Data Projection](https://github.com/codaeddie/portfolio/blob/main/pdf/SpotifyProj.pdf)
+
+---
+
+#### Sentiment Analysis Demo
+[Sentiment Analysis pipeline exploration](https://colab.research.google.com/drive/1eZGDW4ZRfCFKOSv2Q-J3VJQb6p6UHgsa?usp=sharing)
+
+[![Run in Google Colab](https://colab.research.google.com/drive/1eZGDW4ZRfCFKOSv2Q-J3VJQb6p6UHgsa?usp=sharing) 
+
+---
+
+#### Tinygrad chat
+Using [OpenHermes-2.5 model:](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B)
+
+---
+
 ## Work Experience
 
 **TA - Professor Laura Scott @ SDSU Department of Mathematics and Statistics (_2021 - Present_)**
@@ -23,31 +70,3 @@
 -   Overhauled client-care approach to better communicate job progress, change-orders, which impacted over 70% of active accounts
 -   Led project to design company website, incorporating a ticketing system for new clients to quickly submit a job request
 
-## Projects
-
-**UltraFastBERT Benchmark**
-
----
-
-### NLP Projects
-
-#### CS561
-My complete catalog of assignments in ([***CS561: Deep Learning with Natural Language Processing***](https://github.com/codaeddie/SDSU-CS561-NLP)) (Decemebr 2023)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/codaeddie/SDSU-CS561-NLP)
-
----
-#### FastFeedForward Network Expirimentation
-[FFF and UltraFastBERT Implementation](https://github.com/codaeddie/portfolio/blob/main/pdf/Finalcs561.pdf)
-
----
-#### Analyzing my Spotify Listening Data
-[Spotify Data Projection](https://github.com/codaeddie/portfolio/blob/main/pdf/SpotifyProj.pdf)
-
----
-
-
-
-
-
-
----
