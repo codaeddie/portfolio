@@ -21,17 +21,22 @@ My complete implementation of assignments and projects in [***CS561: Natural Lan
 
 #### FastFeedForward Network Expirimentation
 [FFF and UltraFastBERT Implementation](https://github.com/codaeddie/portfolio/blob/main/pdf/Finalcs561.pdf)
+
 _INCOMPLETE_
+
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1VRoMjagRhhCXTo7ayKpvWFNIo-Ol_Kz1?usp=sharing)
 
 ---
 
 #### UltraFastBERT/Crammed-bert/bert-base-uncased Benchmarking 
+
 [UltraBenchmarking](https://colab.research.google.com/drive/1wZ4qoOY8vszP00BK5YG6gwsYeZUfCCsM?usp=sharing)
+
 _INCOMPLETE_
+
 <div style="text-align: justify">Fine-tuned on downstream tasks; glue, mrpc, rte, cola.</div>
 
-[![Run in Google Colab](https://colab.research.google.com/drive/1wZ4qoOY8vszP00BK5YG6gwsYeZUfCCsM?usp=sharing)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1wZ4qoOY8vszP00BK5YG6gwsYeZUfCCsM?usp=sharing)
 
 ---
 
@@ -43,12 +48,14 @@ _INCOMPLETE_
 #### Sentiment Analysis Demo
 [Sentiment Analysis pipeline exploration](https://colab.research.google.com/drive/1eZGDW4ZRfCFKOSv2Q-J3VJQb6p6UHgsa?usp=sharing)
 
-[![Run in Google Colab](https://colab.research.google.com/drive/1eZGDW4ZRfCFKOSv2Q-J3VJQb6p6UHgsa?usp=sharing) 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1eZGDW4ZRfCFKOSv2Q-J3VJQb6p6UHgsa?usp=sharing) 
 
 ---
 
 #### Tinygrad chat
 Using [OpenHermes-2.5 model:](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B)
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/11nsQOe6reVg0Ypn3o35-imhFdE-LVBCK?usp=sharing)
 
 ---
 
